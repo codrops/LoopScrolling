@@ -119,6 +119,7 @@ a:focus-visible {
 	left: 0;
 	width: 100%;
 	justify-items: end;
+	z-index: 500;
 }
 
 .frame a:not(.frame__title-back) {
