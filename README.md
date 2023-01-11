@@ -2,7 +2,7 @@
 
 Infinite loop scrolling based on the animation seen on [Bureau DAM](https://www.bureaudam.com/).
 
-![Image Title](https://tympanus.net/codrops/wp-content/uploads/2023/01/loopscroll.jpg)
+![Image Title](https://tympanus.net/codrops/wp-content/uploads/2023/01/loopscroll-1.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=66589)
 
