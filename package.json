@@ -1,0 +1,14 @@
+{
+  "name": "loopscrolling",
+  "version": "1.0.0",
+  "description": "Infinite loop scrolling based on the animation seen on [Bureau DAM](https://www.bureaudam.com/).",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
+}
